@@ -7,13 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D423C4591AA6F1F2008D4C31 /* MartinTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D423C4581AA6F1F2008D4C31 /* MartinTableViewCell.swift */; };
 		D4B9359F1AA6EF7D001BCCB4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B9359E1AA6EF7D001BCCB4 /* AppDelegate.swift */; };
 		D4B935A21AA6EF7D001BCCB4 /* MartinTableView.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D4B935A01AA6EF7D001BCCB4 /* MartinTableView.xcdatamodeld */; };
-		D4B935A41AA6EF7D001BCCB4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B935A31AA6EF7D001BCCB4 /* ViewController.swift */; };
 		D4B935A71AA6EF7D001BCCB4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4B935A51AA6EF7D001BCCB4 /* Main.storyboard */; };
 		D4B935A91AA6EF7D001BCCB4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4B935A81AA6EF7D001BCCB4 /* Images.xcassets */; };
 		D4B935AC1AA6EF7D001BCCB4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D4B935AA1AA6EF7D001BCCB4 /* LaunchScreen.xib */; };
 		D4B935B81AA6EF7D001BCCB4 /* MartinTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B935B71AA6EF7D001BCCB4 /* MartinTableViewTests.swift */; };
+		D4C662311AA6F30B003233E1 /* NormalTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C662301AA6F30B003233E1 /* NormalTableViewController.swift */; };
+		D4C662331AA6F3BC003233E1 /* Section2TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C662321AA6F3BC003233E1 /* Section2TableViewController.swift */; };
+		D4C662351AA6F4B2003233E1 /* Section1TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C662341AA6F4B2003233E1 /* Section1TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,17 +30,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D423C4581AA6F1F2008D4C31 /* MartinTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MartinTableViewCell.swift; sourceTree = "<group>"; };
 		D4B935991AA6EF7D001BCCB4 /* MartinTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MartinTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4B9359D1AA6EF7D001BCCB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D4B9359E1AA6EF7D001BCCB4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4B935A11AA6EF7D001BCCB4 /* MartinTableView.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MartinTableView.xcdatamodel; sourceTree = "<group>"; };
-		D4B935A31AA6EF7D001BCCB4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D4B935A61AA6EF7D001BCCB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D4B935A81AA6EF7D001BCCB4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		D4B935AB1AA6EF7D001BCCB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		D4B935B11AA6EF7D001BCCB4 /* MartinTableViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MartinTableViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4B935B61AA6EF7D001BCCB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D4B935B71AA6EF7D001BCCB4 /* MartinTableViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MartinTableViewTests.swift; sourceTree = "<group>"; };
+		D4C662301AA6F30B003233E1 /* NormalTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NormalTableViewController.swift; sourceTree = "<group>"; };
+		D4C662321AA6F3BC003233E1 /* Section2TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Section2TableViewController.swift; sourceTree = "<group>"; };
+		D4C662341AA6F4B2003233E1 /* Section1TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Section1TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D423C4571AA6F1E8008D4C31 /* Libs */ = {
+			isa = PBXGroup;
+			children = (
+				D423C4581AA6F1F2008D4C31 /* MartinTableViewCell.swift */,
+			);
+			name = Libs;
+			sourceTree = "<group>";
+		};
 		D4B935901AA6EF7D001BCCB4 = {
 			isa = PBXGroup;
 			children = (
@@ -79,8 +93,11 @@
 		D4B9359B1AA6EF7D001BCCB4 /* MartinTableView */ = {
 			isa = PBXGroup;
 			children = (
+				D423C4571AA6F1E8008D4C31 /* Libs */,
+				D4B935C31AA6EF92001BCCB4 /* Section3 */,
+				D4B935C21AA6EF8E001BCCB4 /* Section2 */,
+				D4B935C11AA6EF89001BCCB4 /* Section1 */,
 				D4B9359E1AA6EF7D001BCCB4 /* AppDelegate.swift */,
-				D4B935A31AA6EF7D001BCCB4 /* ViewController.swift */,
 				D4B935A51AA6EF7D001BCCB4 /* Main.storyboard */,
 				D4B935A81AA6EF7D001BCCB4 /* Images.xcassets */,
 				D4B935AA1AA6EF7D001BCCB4 /* LaunchScreen.xib */,
@@ -113,6 +130,30 @@
 				D4B935B61AA6EF7D001BCCB4 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D4B935C11AA6EF89001BCCB4 /* Section1 */ = {
+			isa = PBXGroup;
+			children = (
+				D4C662341AA6F4B2003233E1 /* Section1TableViewController.swift */,
+			);
+			name = Section1;
+			sourceTree = "<group>";
+		};
+		D4B935C21AA6EF8E001BCCB4 /* Section2 */ = {
+			isa = PBXGroup;
+			children = (
+				D4C662321AA6F3BC003233E1 /* Section2TableViewController.swift */,
+			);
+			name = Section2;
+			sourceTree = "<group>";
+		};
+		D4B935C31AA6EF92001BCCB4 /* Section3 */ = {
+			isa = PBXGroup;
+			children = (
+				D4C662301AA6F30B003233E1 /* NormalTableViewController.swift */,
+			);
+			name = Section3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -215,9 +256,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D4B935A41AA6EF7D001BCCB4 /* ViewController.swift in Sources */,
 				D4B935A21AA6EF7D001BCCB4 /* MartinTableView.xcdatamodeld in Sources */,
+				D4C662331AA6F3BC003233E1 /* Section2TableViewController.swift in Sources */,
+				D423C4591AA6F1F2008D4C31 /* MartinTableViewCell.swift in Sources */,
+				D4C662311AA6F30B003233E1 /* NormalTableViewController.swift in Sources */,
 				D4B9359F1AA6EF7D001BCCB4 /* AppDelegate.swift in Sources */,
+				D4C662351AA6F4B2003233E1 /* Section1TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -409,6 +453,7 @@
 				D4B935BD1AA6EF7D001BCCB4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D4B935BE1AA6EF7D001BCCB4 /* Build configuration list for PBXNativeTarget "MartinTableViewTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +462,7 @@
 				D4B935C01AA6EF7D001BCCB4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
