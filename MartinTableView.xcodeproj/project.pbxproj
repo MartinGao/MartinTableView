@@ -17,6 +17,7 @@
 		D4C662311AA6F30B003233E1 /* NormalTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C662301AA6F30B003233E1 /* NormalTableViewController.swift */; };
 		D4C662331AA6F3BC003233E1 /* Section2TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C662321AA6F3BC003233E1 /* Section2TableViewController.swift */; };
 		D4C662351AA6F4B2003233E1 /* Section1TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C662341AA6F4B2003233E1 /* Section1TableViewController.swift */; };
+		D4C662371AA6F6CA003233E1 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = D4C662361AA6F6CA003233E1 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		D4C662301AA6F30B003233E1 /* NormalTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NormalTableViewController.swift; sourceTree = "<group>"; };
 		D4C662321AA6F3BC003233E1 /* Section2TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Section2TableViewController.swift; sourceTree = "<group>"; };
 		D4C662341AA6F4B2003233E1 /* Section1TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Section1TableViewController.swift; sourceTree = "<group>"; };
+		D4C662361AA6F6CA003233E1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 			isa = PBXGroup;
 			children = (
 				D4B9359D1AA6EF7D001BCCB4 /* Info.plist */,
+				D4C662361AA6F6CA003233E1 /* README.md */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				D4B935A21AA6EF7D001BCCB4 /* MartinTableView.xcdatamodeld in Sources */,
 				D4C662331AA6F3BC003233E1 /* Section2TableViewController.swift in Sources */,
 				D423C4591AA6F1F2008D4C31 /* MartinTableViewCell.swift in Sources */,
+				D4C662371AA6F6CA003233E1 /* README.md in Sources */,
 				D4C662311AA6F30B003233E1 /* NormalTableViewController.swift in Sources */,
 				D4B9359F1AA6EF7D001BCCB4 /* AppDelegate.swift in Sources */,
 				D4C662351AA6F4B2003233E1 /* Section1TableViewController.swift in Sources */,
